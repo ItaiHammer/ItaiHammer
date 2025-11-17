@@ -12,9 +12,9 @@
 ## ⚡ About Me
 - 🧠 I love building tools that bring together all my hobbies.
 - 🎛️ Currently working on **sPARK** - a parking forecaster for San Jose State University that predicts garage availability using historical and live data.
-- 🎹 On the horizon: **Synth Patcher** - a web platform for exploring and sharing analog synth patches.
+- 🎹 On the horizon: **Synth Patcher** - a web platform for making and sharing analog synth patches.
 - 🎥 Producing **Making Viral Sounds Into Originals**, a TikTok series turning viral audio into original music.
-- 🪩 I love apps that stand out — thoughtful design, small details, and maybe even a little sound flair.
+- 🪩 I love apps that stand out. Thoughtful design, small details, and maybe even a little sound flair.
 - 📫 The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/itaihammer/).  
   (I could make a dev email, but I’d probably never check it 😅)
 
