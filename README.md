@@ -9,12 +9,12 @@
 
 ## ⚡ About Me
 
-- 🛠️ I like building tools that bring together my hobbies to solve day to day problems.
+- 🛠️ I like building tools that bring together my hobbies to solve problems.
 - 🪩 I love apps and products that have thoughtful design, small details, while still having real utility.
 - 📫 The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/itaihammer/).  
   (I could make a dev email, but I’d probably never check it 😅)
 
-## 🛰️ What I'm Building
+## 🛰️ What I'm Currently Building
 
 <p align="center">
   <a href="https://github.com/ItaiHammer/ollo"><img src=".github/assets/card-ollo.svg?v=4" width="100%" alt="Ollo: The GitHub repository for Ollo, a connected plant companion that makes plant care easier and more fun, containing its firmware, server, documentation, and future mobile app." /></a>
