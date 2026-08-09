@@ -1,13 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="286" viewBox="0 0 960 286" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="230" viewBox="0 0 960 230" role="img" aria-labelledby="title desc">
   <title id="title">Itai's future projects</title>
   <desc id="desc">Pipply, an automated job-application tracker, is the next project on the horizon. Synth Patcher, a platform for creating and sharing analog synth patches, comes later.</desc>
   <style>
     .card { fill:#f6f8fa; }
-    .shadow { display:none; }
     .status { fill:#59636e; }
-    .title { fill:#1f2328; font:600 22px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
-    .copy { fill:#59636e; font:15px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
-    .pill { fill:#fff; font:700 11px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; letter-spacing:.6px; }
+    .title { fill:#1f2328; font:600 20px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+    .copy { fill:#59636e; font:14px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+    .pill { fill:#fff; font:700 10px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; letter-spacing:.5px; }
     @media (prefers-color-scheme:dark) {
       .card { fill:#161b22; }
       .status { fill:#6e7681; }
@@ -15,19 +14,17 @@
       .copy { fill:#8b949e; }
     }
   </style>
-  <rect class="shadow" x="21" y="13" width="918" height="124" rx="15" />
-  <rect class="card" x="20" y="10" width="920" height="124" rx="15" />
-  <rect class="status" x="20" y="10" width="8" height="124" rx="4" />
-  <rect class="status" x="48" y="30" width="120" height="24" rx="12" />
-  <text class="pill" x="108" y="46" text-anchor="middle">ON THE HORIZON</text>
-  <text class="title" x="48" y="87">Pipply</text>
-  <text class="copy" x="48" y="112">An automated job-application tracker that keeps application statuses organized.</text>
+  <rect class="card" width="960" height="110" rx="12" />
+  <rect class="status" width="6" height="110" rx="3" />
+  <rect class="status" x="22" y="14" width="110" height="20" rx="10" />
+  <text class="pill" x="77" y="28" text-anchor="middle">ON THE HORIZON</text>
+  <text class="title" x="22" y="61">Pipply</text>
+  <text class="copy" x="22" y="87">An automated job-application tracker that keeps application statuses organized.</text>
 
-  <rect class="shadow" x="21" y="157" width="918" height="124" rx="15" />
-  <rect class="card" x="20" y="154" width="920" height="124" rx="15" />
-  <rect class="status" x="20" y="154" width="8" height="124" rx="4" />
-  <rect class="status" x="48" y="174" width="120" height="24" rx="12" />
-  <text class="pill" x="108" y="190" text-anchor="middle">ON THE HORIZON</text>
-  <text class="title" x="48" y="231">Synth Patcher</text>
-  <text class="copy" x="48" y="256">A web platform for creating and sharing analog synth patches.</text>
+  <rect class="card" y="116" width="960" height="110" rx="12" />
+  <rect class="status" y="116" width="6" height="110" rx="3" />
+  <rect class="status" x="22" y="130" width="110" height="20" rx="10" />
+  <text class="pill" x="77" y="144" text-anchor="middle">ON THE HORIZON</text>
+  <text class="title" x="22" y="177">Synth Patcher</text>
+  <text class="copy" x="22" y="203">A web platform for creating and sharing analog synth patches.</text>
 </svg>
