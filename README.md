@@ -17,17 +17,19 @@
 ## 🛰️ What I'm Building
 
 <p align="center">
-  <img src=".github/assets/card-ollo.svg?v=3" width="100%" alt="Ollo: The GitHub repository for Ollo, a connected plant companion that makes plant care easier and more fun, containing its firmware, server, documentation, and future mobile app." />
+  <a href="https://github.com/ItaiHammer/ollo"><img src=".github/assets/card-ollo.svg?v=3" width="100%" alt="Ollo: The GitHub repository for Ollo, a connected plant companion that makes plant care easier and more fun, containing its firmware, server, documentation, and future mobile app." /></a>
   <br />
-  <img src=".github/assets/side-projects.svg?v=2" width="100%" alt="Side projects: Personal Website and Dotfiles." />
+  <a href="https://github.com/ItaiHammer/website"><img src=".github/assets/card-website.svg?v=5" width="50%" alt="Personal Website: No GitHub description yet." /></a><a href="https://github.com/ItaiHammer/dotfiles"><img src=".github/assets/card-dotfiles.svg?v=5" width="50%" alt="Dotfiles: My everyday terminal environment: shell config, CLI tools, aliases, themes, and dotfiles I use across my machines." /></a>
   <br />
-  <img src=".github/assets/card-spark.svg?v=7" width="100%" alt="sPARK, a background project: Smart parking predictions for San Jose State University - Made by students for students" />
+  <a href="https://github.com/ItaiHammer/sPARK"><img src=".github/assets/card-spark.svg?v=7" width="100%" alt="sPARK, a background project: Smart parking predictions for San Jose State University - Made by students for students" /></a>
 </p>
 
 ## 🔭 On the Horizon
 
 <p align="center">
-  <img src=".github/assets/future-projects.svg?v=5" width="100%" alt="Projects on the horizon: Pipply, an automated job-application tracker, followed by Synth Patcher, a web platform for creating and sharing analog synth patches." />
+  <a href="https://github.com/ItaiHammer/pipply"><img src=".github/assets/card-pipply.svg?v=1" width="100%" alt="Pipply: An automated job-application tracker that keeps application statuses organized." /></a>
+  <br />
+  <a href="https://github.com/ItaiHammer/synth-patcher"><img src=".github/assets/card-synth-patcher.svg?v=1" width="100%" alt="Synth Patcher: A web platform for creating and sharing analog synth patches." /></a>
 </p>
 
 ### ☀️ Socials
