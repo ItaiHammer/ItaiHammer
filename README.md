@@ -7,16 +7,12 @@
 
 </div>
 
----
-
 ## ⚡ About Me
 
 - 🛠️ I like building tools that bring together my hobbies to solve real-world problems.
 - 🪩 I love apps and products that stand out; thoughtful design, small details, while still having real utility.
 - 📫 The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/itaihammer/).  
   (I could make a dev email, but I’d probably never check it 😅)
-
----
 
 ## 🛰️ What I'm Building
 
@@ -28,15 +24,11 @@
   <img src=".github/assets/card-spark.svg?v=7" width="100%" alt="sPARK, a background project: Smart parking predictions for San Jose State University - Made by students for students" />
 </p>
 
----
-
 ## 🔭 On the Horizon
 
 <p align="center">
   <img src=".github/assets/future-projects.svg?v=5" width="100%" alt="Projects on the horizon: Pipply, an automated job-application tracker, followed by Synth Patcher, a web platform for creating and sharing analog synth patches." />
 </p>
-
----
 
 ### ☀️ Socials
 
@@ -44,17 +36,16 @@
 [![Instagram](https://img.shields.io/badge/Instagram-d12342?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/itaihammer/)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/itaihammer1?si=0d0cc7d9daaa4cd5)
 
----
-
 ### 🌱 Currently Learning
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![ESP32-C6](https://img.shields.io/badge/ESP32--C6-e7352c?style=flat&logo=espressif&logoColor=white)
 ![Wokwi](https://img.shields.io/badge/Wokwi-1e1e2e?style=flat&logoColor=white)
 
----
+<details>
+<summary><strong>🛠️ Stack</strong></summary>
 
-### 🛠️ Stack
+<br />
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=#f0db4f)
 ![React](https://img.shields.io/badge/React-222222?style=flat&logo=react&logoColor=00d8ff)
@@ -79,4 +70,4 @@
 ![Figma](https://img.shields.io/badge/Figma-323232?style=flat&logo=figma&logoColor=19b6f5)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaiHammer&layout=compact&theme=tokyonight&hide_border=true)
+</details>
