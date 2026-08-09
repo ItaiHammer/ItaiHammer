@@ -2,13 +2,13 @@
   <title id="title">sPARK — background project</title>
   <desc id="desc">Smart parking predictions for San Jose State University — made by students for students.</desc>
   <style>
-    .card{fill:#f6f8fa}.status{fill:#9a6700}.title{fill:#1f2328;font:600 20px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.copy{fill:#59636e;font:14px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.pill{fill:#fff;font:700 10px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:.5px}
-    @media(prefers-color-scheme:dark){.card{fill:#161b22}.status{fill:#d29922}.title{fill:#f0f6fc}.copy{fill:#8b949e}}
+    .card{fill:#f6f8fa;stroke:#d1d9e0;stroke-width:1}.accent,.label{fill:#9a6700}.title{fill:#1f2328;font:600 20px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.copy{fill:#59636e;font:14px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}.pill{fill:#fff;font:700 10px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;letter-spacing:.5px}
+    @media(prefers-color-scheme:dark){.card{fill:#151b23;stroke:#3d444d}.accent{fill:#d29922}.label{fill:#9e6a03}.title{fill:#f0f6fc}.copy{fill:#9198a1}}
   </style>
-  <rect class="card" width="960" height="112" rx="12" />
-  <rect class="status" width="6" height="112" rx="3" />
-  <rect class="status" x="22" y="14" width="146" height="20" rx="10" />
-  <text class="pill" x="95" y="28" text-anchor="middle">BACKGROUND PROJECT</text>
-  <text class="title" x="22" y="61">sPARK</text>
-  <text class="copy" x="22" y="88">Smart parking predictions for San Jose State University - Made by students for students</text>
+  <rect class="card" x=".5" y=".5" width="959" height="111" rx="6" />
+  <rect class="accent" x="1" y="1" width="4" height="110" rx="2" />
+  <rect class="label" x="20" y="14" width="146" height="20" rx="10" />
+  <text class="pill" x="93" y="28" text-anchor="middle">BACKGROUND PROJECT</text>
+  <text class="title" x="20" y="61">sPARK</text>
+  <text class="copy" x="20" y="88">Smart parking predictions for San Jose State University - Made by students for students</text>
 </svg>
