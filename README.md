@@ -9,8 +9,8 @@
 
 ## ⚡ About Me
 
-- 🛠️ I like building tools that bring together my hobbies to solve real-world problems.
-- 🪩 I love apps and products that stand out; thoughtful design, small details, while still having real utility.
+- 🛠️ I like building tools that bring together my hobbies to solve day to day problems.
+- 🪩 I love apps and products that have thoughtful design, small details, while still having real utility.
 - 📫 The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/itaihammer/).  
   (I could make a dev email, but I’d probably never check it 😅)
 
@@ -32,22 +32,23 @@
   <a href="https://github.com/ItaiHammer/synth-patcher"><img src=".github/assets/card-synth-patcher.svg?v=2" width="100%" alt="Synth Patcher: A web platform for creating and sharing analog synth patches." /></a>
 </p>
 
-## ☀️ Socials
+### ☀️ Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itaihammer/)
 [![Instagram](https://img.shields.io/badge/Instagram-d12342?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/itaihammer/)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/itaihammer1?si=0d0cc7d9daaa4cd5)
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![ESP32-C6](https://img.shields.io/badge/ESP32--C6-e7352c?style=flat&logo=espressif&logoColor=white)
 ![Wokwi](https://img.shields.io/badge/Wokwi-1e1e2e?style=flat&logoColor=white)
 
-## 🛠️ Stack
-
+<h3>
 <details>
-<summary>View technologies</summary>
+<summary>&ensp;🛠️ Stack</summary>
+
+<br />
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=#f0db4f)
 ![React](https://img.shields.io/badge/React-222222?style=flat&logo=react&logoColor=00d8ff)
@@ -73,3 +74,4 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=white)
 
 </details>
+</h3>
